@@ -1,0 +1,128 @@
+obj/local/armeabi/objs-debug/cocos2dx_internal_static/base/CCDataVisitor.o: \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/CCDataVisitor.cpp \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/CCRef.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/CCPlatformMacros.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/ccConfig.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/CCPlatformConfig.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/CCPlatformDefine.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/android/CCPlatformDefine-android.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCBool.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/CCDataVisitor.h \
+ C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/string \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCInteger.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/CCConsole.h \
+ C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/thread \
+ C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
+ C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/map \
+ C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/mutex \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/ccMacros.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/CCStdC.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/android/CCStdC-android.h \
+ C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/cassert \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/ccRandom.h \
+ C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/random \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/CCCommon.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCFloat.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCDouble.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCString.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCArray.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/ccCArray.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/ccUTF8.h \
+ C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/sstream \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/android/jni/JniHelper.h \
+ C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./math/Vec3.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./math/CCMathBase.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./math/Vec3.inl \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./math/Mat4.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./math/Vec4.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./math/Vec4.inl \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./math/Mat4.inl \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCDictionary.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/uthash.h \
+ c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCSet.h \
+ C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/set
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/CCRef.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/CCPlatformMacros.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/ccConfig.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/CCPlatformConfig.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/CCPlatformDefine.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/android/CCPlatformDefine-android.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCBool.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/CCDataVisitor.h:
+
+C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/string:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCInteger.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/CCConsole.h:
+
+C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/thread:
+
+C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
+
+C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/map:
+
+C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/mutex:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/ccMacros.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/CCStdC.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/android/CCStdC-android.h:
+
+C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/cassert:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/ccRandom.h:
+
+C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/random:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/CCCommon.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCFloat.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCDouble.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCString.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCArray.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/ccCArray.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/ccUTF8.h:
+
+C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/sstream:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./platform/android/jni/JniHelper.h:
+
+C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./math/Vec3.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./math/CCMathBase.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./math/Vec3.inl:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./math/Mat4.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./math/Vec4.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./math/Vec4.inl:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./math/Mat4.inl:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCDictionary.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./base/uthash.h:
+
+c:/Users/droid/onGit/cocos2d-x-templates/CocosBasic/proj.android/../cocos2d/cocos/./deprecated/CCSet.h:
+
+C:/Software/Android-NDK/android-ndk-r12b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/set:
