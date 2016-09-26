@@ -61,6 +61,47 @@ The parameters to the *cocos new* command are:
 
 ![](_misc/Project%20Structure%20and%20Contents.PNG)
 
+### Build and Run
+
+```sh
+c:\Users\droid>cocos run --help
+usage: cocos run [-h] [-s SRC_DIR] [-q] [-p PLATFORM] [--list-platforms]
+                 [--proj-dir PROJ_DIR] [-m MODE] [-b BROWSER] [--param PARAM]
+                 [--port [SERVER_PORT]] [--host [SERVER_HOST]] [--no-console]
+                 [--working-dir WORKING_DIR]
+
+Compiles, deploy and run project on the target.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -s SRC_DIR, --src SRC_DIR
+                        Specify the path of the project.
+  -q, --quiet           Less output
+  -p PLATFORM, --platform PLATFORM
+                        Specify the target platform.
+  --list-platforms      List available platforms
+  --proj-dir PROJ_DIR   Specify the directory for target platform.
+  -m MODE, --mode MODE  Set the run mode, should be debug|release, default is
+                        debug.
+
+web project arguments:
+  -b BROWSER, --browser BROWSER
+                        Specify the browser to open the url. Use the system
+                        default browser if not specified.
+  --param PARAM         after Specify the browser to open the url, add the
+                        browser param.
+  --port [SERVER_PORT]  Set the port of the local web server, defualt is 8000
+  --host [SERVER_HOST]  Set the host of the local web server, defualt is
+                        127.0.0.1
+  --no-console          Disable simulator console window (by passing command
+                        line arguments '-console no' to simulator) for
+                        Windows, Mac and Linux.
+  --working-dir WORKING_DIR
+                        Specify simulator working directory for Windows, Mac
+                        and Linux (by passing command line arguments '-workdir
+                        "<path>"' to simulator).
+```
+
 ### Project Contents
 
 ```
