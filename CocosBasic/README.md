@@ -1627,4 +1627,6 @@ c:\Users\droid\onGit\cocos2d-x-templates\CocosBasic\bin\debug\android>adb -d ins
 Success
 ```
 
+### Screenshot
 
+![](_misc/Screenshot-on-Android.png)
