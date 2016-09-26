@@ -1627,6 +1627,39 @@ c:\Users\droid\onGit\cocos2d-x-templates\CocosBasic\bin\debug\android>adb -d ins
 Success
 ```
 
+**Files created/modified on build and run step**
+
+```
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   cocos2d/cocos/platform/android/java/proguard-project.txt
+        modified:   cocos2d/cocos/platform/android/java/project.properties
+        modified:   proj.android/proguard-project.txt
+        modified:   proj.android/project.properties
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        bin/
+        cocos2d/cocos/platform/android/java/.d
+        cocos2d/cocos/platform/android/java/bin/
+        cocos2d/cocos/platform/android/java/gen/
+        cocos2d/cocos/platform/android/java/local.properties
+        proj.android/assets/
+        proj.android/bin/
+        proj.android/gen/
+        proj.android/libs/
+        proj.android/local.properties
+        proj.android/obj/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+```
+
 ### Screenshot
 
 ![](_misc/Screenshot-on-Android.png)
