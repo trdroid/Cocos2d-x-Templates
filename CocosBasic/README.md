@@ -1693,5 +1693,9 @@ Choose a device to run on.
 
 ????? For some reason, I could not get the app to run on an emulator.
 
+Choose to run on the Android device
 
+![](_misc/Screenshot-on-Android-from-Eclipse.png)
+
+????? Notice the difference in how the Cocos2d-x logo is displayed when the "build and run" step was carried out from the command line from how it is displayed when "build and run" from the Eclipse IDE.
 
