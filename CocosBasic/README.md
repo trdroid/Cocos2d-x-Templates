@@ -61,7 +61,7 @@ The parameters to the *cocos new* command are:
 
 ![](_misc/Project%20Structure%20and%20Contents.PNG)
 
-### Build and Run
+### Building and Running from the console
 
 ```sh
 c:\Users\droid>cocos run --help
@@ -1605,6 +1605,8 @@ error: no devices/emulators found
 Error running command, return code: 1.
 ```
 
+????? How can I deploy the app to an Android emulator from the command line?
+
 ```sh
 C:\Users\droid>cd c:\Users\droid\onGit\cocos2d-x-templates\CocosBasic\bin\debug\android
 
@@ -1662,4 +1664,34 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 ### Screenshot
 
+On deploying the apk file to an Android device:
+
 ![](_misc/Screenshot-on-Android.png)
+
+
+### Building and running from Eclipse
+
+Import the generated project
+
+![](_misc/Importing%20the%20Android%20project.PNG)
+
+Import the generated libcocos2dx as an Android Project
+
+![](_misc/Importing%20libcocos2dx%20as%20an%20Android%20Project.PNG)
+
+Configure Eclipse with the Android SDK
+
+![](_misc/Changing%20Android%20SDK%20path.PNG)
+
+Configure Eclipse to use NDK
+
+![](_misc/Configuring%20Eclipse%20to%20use%20NDK.PNG)
+
+Choose a device to run on.
+
+![](_misc/Choosing%20a%20device%20to%20run%20on.PNG)
+
+????? For some reason, I could not get the app to run on an emulator.
+
+
+
