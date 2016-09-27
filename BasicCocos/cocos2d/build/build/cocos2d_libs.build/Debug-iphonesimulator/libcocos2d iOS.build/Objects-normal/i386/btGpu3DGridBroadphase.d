@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.cpp \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuDefines.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedDefs.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedCode.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/build/../external/bullet/LinearMath/btQuickprof.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCache.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseInterface.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCallback.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedDefs.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedTypes.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btSimpleBroadphase.h \
+  /Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedCode.h
