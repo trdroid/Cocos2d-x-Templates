@@ -1,5 +1,6 @@
 # Creating the project
 
+*Platform*: Windows 10, DOS prompt
 *Version of Cocos2d-x used: cocos2d-x-3.13.1*
 
 ```sh
