@@ -91,3 +91,27 @@ nothing added to commit but untracked files present (use "git add" to track)
 ### Screenshot
 
 ![](_misc/Screeshot%20of%20app%20on%20iPhone.png)
+
+### Building and Running from Xcode
+
+Open the file "/Users/droid/onGit/Cocos2d-x-Templates/BasicCocos/proj.ios_mac/BasicCocos.xcodeproj", which opens the file in Xcode.
+
+Click on Build & Run
+
+![](_misc/Screenshot%20of%20app%20launched%20from%20Xcode.png)
+
+**Files created/modified on build and run step**
+
+```sh
+droid@Yamz:~/onGit/Cocos2d-x-Templates/BasicCocos$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	cocos2d/build/cocos2d_libs.xcodeproj/xcuserdata/
+	proj.ios_mac/BasicCocos.xcodeproj/project.xcworkspace/
+	proj.ios_mac/BasicCocos.xcodeproj/xcuserdata/
+
+nothing added to commit but untracked files present (use "git add" to track)
+```
