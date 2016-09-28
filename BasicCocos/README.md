@@ -90,4 +90,4 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 ### Screenshot
 
-![](_misc/Screeshot%20of%20app%20on%20iPhone)
+![](_misc/Screeshot%20of%20app%20on%20iPhone.png)
